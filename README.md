@@ -9,3 +9,10 @@ references:
 
 just to learn
 
+## build
+
+```
+$ ./build.sh
+$ ./pseudorandom
+```
+
